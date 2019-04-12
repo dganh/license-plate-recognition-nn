@@ -1,0 +1,16 @@
+D:\PROJECT\Project1\NDBS\bin\Debug\nhandangkitu.exe
+D:\PROJECT\Project1\NDBS\bin\Debug\nhandangkitu.pdb
+D:\PROJECT\Project1\NDBS\bin\Debug\nhandangkitu.exe.CodeAnalysisLog.xml
+D:\PROJECT\Project1\NDBS\bin\Debug\nhandangkitu.exe.lastcodeanalysissucceeded
+D:\PROJECT\Project1\NDBS\bin\Debug\AForge.Video.DirectShow.dll
+D:\PROJECT\Project1\NDBS\bin\Debug\AForge.Video.dll
+D:\PROJECT\Project1\NDBS\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECT\Project1\NDBS\obj\Debug\nhandangkitu.AboutBox1.resources
+D:\PROJECT\Project1\NDBS\obj\Debug\nhandangkitu.ContrastForm.resources
+D:\PROJECT\Project1\NDBS\obj\Debug\nhandangkitu.TrainerForm.resources
+D:\PROJECT\Project1\NDBS\obj\Debug\nhandangkitu.Form1.resources
+D:\PROJECT\Project1\NDBS\obj\Debug\nhandangkitu.Properties.Resources.resources
+D:\PROJECT\Project1\NDBS\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\PROJECT\Project1\NDBS\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\PROJECT\Project1\NDBS\obj\Debug\nhandangkitu.exe
+D:\PROJECT\Project1\NDBS\obj\Debug\nhandangkitu.pdb

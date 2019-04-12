@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="nhandangkitu">
+</Property><Property Name="Solution File" Value="D:\PROJECT\Project1\NDBS\nhandangkitu.sln">
+</Property><Property Name="User Options File" Value="D:\PROJECT\Project1\NDBS\nhandangkitu.suo">
+</Property><Property Name="Date" Value="27 Tháng Mười Hai 2010">
+</Property><Property Name="Time" Value="22:51 CH">
+</Property><Property Name="Log Number" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="nhandangkitu.sln" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\nhandangkitu.sln">
+</Event><Event ErrorLevel="0" Project="" Source="nhandangkitu.suo" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\nhandangkitu.suo">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="nhandangkitu.csproj" Description="Project file successfully backed up as D:\PROJECT\Project1\NDBS\Backup\nhandangkitu.csproj">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="nhandangkitu.csproj.user" Description="Project user file successfully backed up as D:\PROJECT\Project1\NDBS\Backup\nhandangkitu.csproj.user">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="AboutBox1.cs" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\AboutBox1.cs">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="AboutBox1.Designer.cs" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\AboutBox1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="catbienso.cs" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\catbienso.cs">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="ContrastForm.cs" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\ContrastForm.cs">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="ContrastForm.Designer.cs" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\ContrastForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="ExtractCharacter.cs" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\ExtractCharacter.cs">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="NeuralNetwork.cs" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\NeuralNetwork.cs">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="RotateImg.cs" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\RotateImg.cs">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="TrainerForm.cs" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\TrainerForm.cs">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="TrainerForm.Designer.cs" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\TrainerForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="processImage.cs" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\processImage.cs">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="Form1.cs" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="Form1.Designer.cs" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="Program.cs" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="Properties\Settings.settings" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="AboutBox1.resx" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\AboutBox1.resx">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="ContrastForm.resx" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\ContrastForm.resx">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="TrainerForm.resx" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\TrainerForm.resx">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="Form1.resx" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="Properties\Resources.resx" Description="File successfully backed up as D:\PROJECT\Project1\NDBS\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="nhandangkitu" Source="nhandangkitu.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="nhandangkitu" Source="nhandangkitu.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="nhandangkitu.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="nhandangkitu.sln" Description="Converted">
+</Event></UpgradeLog>

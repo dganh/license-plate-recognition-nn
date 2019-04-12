@@ -1,0 +1,8 @@
+C:\Users\ben\Documents\Visual Studio 2005\Projects\nhandangkitu\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ben\Documents\Visual Studio 2005\Projects\nhandangkitu\obj\Debug\nhandangkitu.Form1.resources
+C:\Users\ben\Documents\Visual Studio 2005\Projects\nhandangkitu\obj\Debug\nhandangkitu.Properties.Resources.resources
+C:\Users\ben\Documents\Visual Studio 2005\Projects\nhandangkitu\obj\Debug\nhandangkitu.csproj.GenerateResource.Cache
+C:\Users\ben\Documents\Visual Studio 2005\Projects\nhandangkitu\bin\Debug\nhandangkitu.exe
+C:\Users\ben\Documents\Visual Studio 2005\Projects\nhandangkitu\bin\Debug\nhandangkitu.pdb
+C:\Users\ben\Documents\Visual Studio 2005\Projects\nhandangkitu\obj\Debug\nhandangkitu.exe
+C:\Users\ben\Documents\Visual Studio 2005\Projects\nhandangkitu\obj\Debug\nhandangkitu.pdb
